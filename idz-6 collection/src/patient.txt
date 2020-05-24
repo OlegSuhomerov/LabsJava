@@ -1,0 +1,5 @@
+1 Ivanov Ivan Ivanovich Sidra5 3334455 11 Grip
+2 Petrov Petr Petrovich Gogola10 7773322 13 Grip
+3 Zebrov Evgeni Evgenevich Sovetskaya83 1010300 21 Serdce
+4 Shishkin Andrey Andreevich Pushkina17 2225511 19 Nasmork
+5 Himov Genadi Sergeevich Stalina77 9090999 25 Koronovirus
