@@ -1,6 +1,6 @@
-package by.gsu.pms;
+import java.io.Serializable;
 
-public class House {
+public class House implements Serializable {
     private int id;
     private int apartmentNumber;
     private int area;
@@ -104,4 +104,5 @@ public class House {
         this.street = street;
         this.lifetime = lifetime;
     }
+
 }
