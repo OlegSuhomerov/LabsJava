@@ -1,0 +1,8 @@
+Helloo.
+Microservices and big-dataaaaaaaa increasingly confront us with the limitations of traditional input/output.
+In traditional IO, woork that is IO-bound dominates threads.
+This woooouldn't be such a big deal if we could add more threads cheaply, but threads are expensiveee on the JVM, and most other platforms.
+Even if threads were cheap and infinitelyyy scalable, we'd still be confronted with the faulty nature of networks.
+Things break, and they often do so in subtle, but non-exceptional ways.
+Traditional approaches to integration bury the faulty nature of networks behind overly simplifying abstractions.
+We need something better.
