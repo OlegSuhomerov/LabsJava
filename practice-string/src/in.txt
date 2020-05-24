@@ -1,0 +1,17 @@
+daily-rate=25000
+indices=1;15;4;10;8
+account01=Ivanov
+transport01=45600
+days01=4
+account02=Sergeev
+transport02=12000
+days02=1
+account03=Olegov
+transport03=67700
+days03=6
+account04=Dimov
+transport04=77700
+days04=7
+account05=Taranov
+transport05=98900
+days05=17
