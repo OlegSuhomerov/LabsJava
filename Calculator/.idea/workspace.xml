@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e1a525-06bc-49c1-a745-074108b8ff54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l9ouwKsZrdKqjfbI8Kc5Le69sz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="D:\~IDE\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e1a525-06bc-49c1-a745-074108b8ff54" name="Default Changelist" comment="" />
+      <created>1607018893476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607018893476</updated>
+      <workItem from="1607018894554" duration="2189000" />
+      <workItem from="1607021261370" duration="806000" />
+      <workItem from="1607078731284" duration="13260000" />
+      <workItem from="1607163924374" duration="1872000" />
+      <workItem from="1607181547636" duration="10032000" />
+      <workItem from="1607417928949" duration="174000" />
+      <workItem from="1607418328431" duration="148000" />
+      <workItem from="1607549175896" duration="92000" />
+      <workItem from="1607632858113" duration="1425000" />
+      <workItem from="1607634631105" duration="741000" />
+      <workItem from="1607719533204" duration="576000" />
+      <workItem from="1607720626912" duration="1648000" />
+      <workItem from="1607770604747" duration="6622000" />
+      <workItem from="1607799008492" duration="1457000" />
+      <workItem from="1607814464720" duration="31436000" />
+      <workItem from="1607892366476" duration="408000" />
+      <workItem from="1607894440084" duration="1783000" />
+      <workItem from="1607934016538" duration="3999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1607854632755">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607854632755" />
+    <state x="0" y="0" width="747" height="940" key="dock-window-1" timestamp="1607799275060">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" width="747" height="940" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1607799275060" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1607183658251">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607183658251" />
+    <state x="698" y="342" width="672" height="678" key="search.everywhere.popup" timestamp="1607087694927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="698" y="342" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607087694927" />
+  </component>
+</project>
