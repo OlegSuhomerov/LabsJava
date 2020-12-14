@@ -1,0 +1,158 @@
+html,
+body {
+    height: 93%;
+    width: 99.5%;
+    margin-left: 5px;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+.content {
+
+}
+
+.promo-title-name {
+    font-size: 150%;
+}
+
+
+.promo-title-calc {
+    font-size: 150%;
+    margin-left: 10px;
+}
+
+.table-2 {
+    margin-left: 15px;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 3px;
+    width: 100%;
+    height: 80px;
+    outline: 2px solid black;
+
+}
+
+.init-item {
+    padding-left: 50px;
+}
+
+.init-cost {
+    padding-left: 50%;
+}
+
+.e01 {
+    text-align: right;
+}
+
+.e002 {
+    text-align: right;
+}
+
+.adding-input-name {
+    width: 350px;
+}
+
+.adding-input-item {
+    width: 110px;
+}
+
+.init-name {
+    font-size: 130%;
+    margin-left: 10px;
+}
+
+.table-1 {
+    margin-left: 10px;
+}
+
+.total_one {
+    border: white;
+    width: 150px;
+}
+
+.sum {
+    border: white;
+    width: 150px;
+    margin-top: 10px;
+}
+
+
+.yes {
+    margin-top: 10px;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    outline: 2px solid black;
+    text-align: center;
+}
+
+.adding-input-calc {
+    width: 350px;
+}
+
+.adding-input-cost {
+    width: 100px;
+}
+
+.calculations {
+    outline: 2px solid black;
+    margin-top: 15px;
+}
+
+.b-popup{
+    width:100%;
+    min-height:100%;
+    background-color: rgba(0,0,0,0.5);
+    overflow:hidden;
+    position:fixed;
+    top:0px;
+}
+.b-popup .b-popup-content{
+    margin:40px auto 0px auto;
+    width: 800px;
+    height: 800px;
+    padding:10px;
+    background-color: #c5c5c5;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px #000;
+}
+.save-all {
+    margin-top: 10px;
+}
+.name-button {
+    margin-left: 10px;
+}
+.add-tr {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.e-p00 {
+
+}
+.e-p01 {
+    text-align: right;
+}
+.take-name-input {
+    width: 170px;
+}
+.take-id-input {
+    width: 200px;
+}
+.del-btn {
+    float: right;
+}
+.close {
+    margin-left: 30px;
+    float: right;
+    position: static;
+}
+
+
